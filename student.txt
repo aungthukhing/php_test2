@@ -1,0 +1,11 @@
+
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=mandalay;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=mandalay;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=mandalay;grade=Final
+name=Aung Thu Khaing;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final
+name=Aung Thu Khaing;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final

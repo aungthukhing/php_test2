@@ -1,0 +1,22 @@
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=monywa;grade=Final
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=monywa;grade=Final
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final;subject=Array
+name=mg mg ;email=aungthukhaing92@gamil.com;phoneno=09778825672;township=yangon;grade=Final;subject=Array
+
+
+{"Name":"mg mg ","Email":"aungthukhaing92@gamil.com","Phoneno":"09778825672","Township":"monywa","Grade":"Final","Subject":["5o5","5o6"]}
+{"Name":"mg mg ","Email":"aungthukhaing92@gamil.com","Phoneno":"09778825672","Township":"monywa","Grade":"Final","Subject":["5o5","5o6"]}
+{"Name":"","Email":"","Phoneno":"","Township":"yangon","Grade":null,"Subject":null}
+{"Name":"","Email":"","Phoneno":"","Township":"yangon","Grade":null,"Subject":null}
+{"Name":"","Email":"","Phoneno":"","Township":"yangon","Grade":null,"Subject":null}
+{"Name":"mg mg ","Email":"aungthukhaing92@gamil.com","Phoneno":"09778825672","Township":"yangon","Grade":"Final","Subject":["5o4","5o5"]}
+{"Name":"Aung Thu Khaing","Email":"09967739856","Phoneno":"09778825672","Township":"mandalay","Grade":"Final","Subject":["5o5","5o6"]}
+{"Name":"mg mg ","Email":"aungthukhaing92@gamil.com","Phoneno":"09778825672","Township":"mandalay","Grade":"Fourth","Subject":["5o5","5o6"]}
